@@ -61,9 +61,9 @@ Para entender melhor como esses conceitos se relacionam, pense na URI como a cat
 
 ### Visualização da Relação
 
-URI
-├── URL
-└── URN
+- URI
+  - URL
+  - URN
 
 
 Por exemplo:
